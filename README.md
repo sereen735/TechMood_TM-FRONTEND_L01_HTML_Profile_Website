@@ -1,6 +1,6 @@
-# TechMood_TM-FRONTEND_Bootcamp 🚀
+# 🌟 HTML Personal Profile Website
 
-Official repository containing all projects, assignments, and practical tasks for the **TechMood Front-End Development Bootcamp**.
+A multi-page personal portfolio website built using pure **HTML5** as part of the **TechMood Front-End Bootcamp**. This project focuses on structuring semantic web pages, text content, lists, data tables, and interactive HTML forms.
 
 ## 📂 Repository Structure
 
