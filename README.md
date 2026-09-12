@@ -18,9 +18,9 @@ Personal-Profile-Website/
 ├── about.html          # About Me page
 └── contact.html        # Contact page
 
-🛠️ Technologies Used
-HTML5 (Semantic elements, tables, lists, and forms)
+### 🛠️ Technologies Used
+- **HTML5** (Semantic elements, tables, lists, and forms)
 
-👩‍💻 Author
-Sereen Qassem
-Smart Systems and Computer Engineering Student & Front-End Developer
+### 👩‍💻 Author
+- **Sereen Qassem** 
+- *Smart Systems and Computer Engineering Student & Front-End Developer*
