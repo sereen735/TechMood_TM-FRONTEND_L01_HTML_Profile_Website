@@ -1,5 +1,4 @@
 # TechMood_TM-FRONTEND_L01_HTML_Profile_Website
-# 🌟 HTML Personal Profile Website
 
 A multi-page personal portfolio website built using pure **HTML5** as part of the **TechMood Front-End Bootcamp**. This project focuses on structuring semantic web pages, text content, lists, data tables, and interactive HTML forms.
 
