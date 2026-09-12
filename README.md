@@ -6,7 +6,7 @@ A multi-page personal portfolio website built using pure **HTML5** as part of th
 
 - **01-HTML/**
   - **Lesson-01/**
-    - **TM-FRONTEND-L01-HTML-Profile/**
+    - **Personal-Profile-Website/**
       - `index.html` (Home page / Profile)
       - `about.html` (About page)
       - `contact.html` (Contact form)
